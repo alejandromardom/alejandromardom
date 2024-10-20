@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="Banner LinkedIn_alejandromardom.png" width="800"/>
+  <img decoding="async" src="Banner LinkedIn_alejandromardom.png" width="900"/>
 </div>
 
 <!--
