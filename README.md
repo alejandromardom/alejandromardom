@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="Banner LinkedIn_alejandromardom.png" width="800"/>
+</div>
 
 <!--
 **alejandromardom/alejandromardom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
