@@ -14,12 +14,11 @@ I am a **QA Engineer** with over **7 years of experience** in IT and a specializ
 - **Other Tools**: Office 365, DevTools, JSON
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromardom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandromardom&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
