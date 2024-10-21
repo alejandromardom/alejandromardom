@@ -13,6 +13,12 @@ I am a **QA Engineer** with over **7 years of experience** in IT and a specializ
 - **Version Control**: Git, GitHub
 - **Other Tools**: Office 365, DevTools, JSON
 
+### 🚀 Featured Projects:
+- 🔧 [qa-project-Urban-Routes-es](link_to_your_repository): An automation project for functional testing of an urban routing application using Selenium and Python.
+- 📱 [scooter_rent-#](link_to_your_repository): REST API testing for electric scooter management, verifying data in the PostgreSQL database.
+
+### 🌱 Commitment to Continuous Improvement:
+I am committed to continuous improvement and delivering high-quality software products that meet the highest standards. I have knowledge of **Agile** and **DevOps** methodologies, allowing me to collaborate effectively in dynamic environments. I am passionate about staying up-to-date with the latest technological trends and adapting to changes and challenges in the IT sector, ensuring timely delivery of high-quality solutions.
 
 
 
