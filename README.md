@@ -36,29 +36,9 @@ Passionate about technology and enjoying a career transition to QA Engineer. <im
 
 
 ### 🚀 Featured Projects:
-[Portafolio](https://github.com/alejandromardom/Portafolio))
+[### 💼 Portafolio](https://github.com/alejandromardom/Portafolio)
 
 ### 🌱 Commitment to Continuous Improvement:
 I am committed to continuous improvement and delivering high-quality software products that meet the highest standards. I have knowledge of **Agile** and **DevOps** methodologies, allowing me to collaborate effectively in dynamic environments. I am passionate about staying up-to-date with the latest technological trends and adapting to changes and challenges in the IT sector, ensuring timely delivery of high-quality solutions.
 
 
-
-
-
-
-
-
-<!--
-**alejandromardom/alejandromardom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
