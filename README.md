@@ -19,6 +19,8 @@ Passionate about technology and enjoying a career transition to QA Engineer. <im
 
 **QA Engineer** with over **7 years of experience** in IT and a specialization in software quality control. I possess a solid understanding of quality principles and processes in software development, which has enabled me to develop skills in **manual and automated testing** using tools like **Python**, **Selenium**, **Postman**, and **Jira**. I also have experience in mobile application testing using **Android Studio**.
 
+# 💻 Tech Stack:
+
 **Testing Skills**: Test Planning, Mobile Testing, Manual Testing, Automated Testing, Regression Testing, Smoke Testing, API Testing, UI Testing, Debugging
 - **Programming Languages**: Python, Bash
 - **Automated Testing Tools**: Selenium, WebDriverIO
@@ -28,19 +30,7 @@ Passionate about technology and enjoying a career transition to QA Engineer. <im
 - **Version Control**: Git, GitHub
 - **Other Tools**: Office 365, DevTools, JSON
 
-<div id="header" align="left">
-    <img decoding="async" src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-          
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
-
-</div>       
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🚀 Featured Projects:
 
