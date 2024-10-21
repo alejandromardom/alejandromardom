@@ -5,7 +5,7 @@
 ---
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: About me :
 
 I am a **QA Engineer** with over **7 years of experience** in IT and a specialization in software quality control. I possess a solid understanding of quality principles and processes in software development, which has enabled me to develop skills in **manual and automated testing** using tools like **Python**, **Selenium**, **Postman**, and **Jira**. I also have experience in mobile application testing using **Android Studio**.
 
