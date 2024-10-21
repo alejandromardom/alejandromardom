@@ -13,7 +13,7 @@ I am a **QA Engineer** with over **7 years of experience** in IT and a specializ
 - **Version Control**: Git, GitHub
 - **Other Tools**: Office 365, DevTools, JSON
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandromardom&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
