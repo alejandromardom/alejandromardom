@@ -9,7 +9,7 @@ I am a **QA Engineer** with over **7 years of experience** in IT and a specializ
 - **Automated Testing Tools**: Selenium, WebDriverIO
 - **Testing Tools**: Postman, Jira, Figma
 - **Databases**: SQL y PostgreSQL
-- **Methodologies**: Agile, DevOps y ITIL
+- **Methodologies**: Agile, DevOps, ITIL
 - **Version Control**: Git, GitHub
 - **Other Tools**: Office 365, DevTools, JSON
 
