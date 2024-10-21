@@ -13,9 +13,9 @@ Passionate about technology and enjoying a career transition to QA Engineer. <im
 
 * :seedling: Im dedicated to personal :blue_book: growth and am currently learning :computer: SQL, Python, and Microsoft's powerful tools.
 
-* :heartbeat: I'm always looking for new ways to automate my workflow
+* 🕵️‍♂️: I'm always looking for new ways to automate my workflow
 
-* :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-MAlejandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinezmiguelalejandro/)
+* :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-alejandromardom-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinezmiguelalejandro/)
 
 I am a **QA Engineer** with over **7 years of experience** in IT and a specialization in software quality control. I possess a solid understanding of quality principles and processes in software development, which has enabled me to develop skills in **manual and automated testing** using tools like **Python**, **Selenium**, **Postman**, and **Jira**. I also have experience in mobile application testing using **Android Studio**.
 
